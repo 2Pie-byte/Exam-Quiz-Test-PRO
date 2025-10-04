@@ -158,6 +158,6 @@ If you find this project useful, please consider:
 
 ---
 
-**Built with ❤️ by Veljko Vuckovic and the open-source community**
+**Built with ❤️ by Veljko Vuckovic @refloow**
 
 *Enjoy building amazing quizzes with Exam-Quiz-Test-PRO! 🚀*
