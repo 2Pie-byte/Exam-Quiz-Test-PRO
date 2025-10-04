@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 **Discord**: [Join our server](https://discord.gg/4enDY8yhuS)
 
-> ❤️ **All-in-one open-source advanced browser-based quiz maker software with dark & light mode and over 20+ features!**
+> ❤️ **All in one open-source free advanced browser based quiz maker software with dark mode and over 20 featues!**
 
 The **PRO version** of [Exam-Quiz-Test](https://github.com/Refloow/Exam-Quiz-Test) - A powerful, feature-rich quiz creation and management platform that takes quiz-making to the next level with an intuitive quiz builder, enhanced editing capabilities, and support for rich media content.
 
