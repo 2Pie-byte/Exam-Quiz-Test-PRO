@@ -1,7 +1,7 @@
 # Exam-Quiz-Test-PRO
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+**Discord**: [Join our server](https://discord.gg/4enDY8yhuS)
 
 > ❤️ **All-in-one open-source advanced browser-based quiz maker software with dark & light mode and over 20+ features!**
 
