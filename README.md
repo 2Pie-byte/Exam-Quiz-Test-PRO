@@ -20,10 +20,16 @@ The PRO version is a complete upgrade from the basic Exam-Quiz-Test platform, fe
 - **Real-time Preview** - See your quiz as you build it
 - **Intuitive Question Editor** - Add, edit, and delete questions in seconds
 
+  <img width="2120" height="1120" alt="image" src="https://github.com/user-attachments/assets/1d62b9a6-756b-4512-9c84-51b016602baf" />
+
+
 ### 📝 **Enhanced Question Management**
 - **Easy Add/Remove/Edit** - Manage questions before generating your test
 - **Bulk Operations** - Import/export question sets
 - **Question Templates** - Pre-built templates for common question types
+
+<img width="1885" height="434" alt="image" src="https://github.com/user-attachments/assets/726b1455-7e30-4bb9-8d7f-9e8b8be476ac" />
+
 
 ### 🖼️ **Rich Media Support**
 - **Image Support** - Add images to questions and answers
