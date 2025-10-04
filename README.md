@@ -17,7 +17,6 @@ The PRO version is a complete upgrade from the basic Exam-Quiz-Test platform, fe
 
 ### 🚀 **Advanced Quiz Builder**
 - **Visual Quiz Builder Interface** - Create quizzes without touching code
-- **Real-time Preview** - See your quiz as you build it
 - **Intuitive Question Editor** - Add, edit, and delete questions in seconds
 
   <img width="2120" height="1120" alt="image" src="https://github.com/user-attachments/assets/1d62b9a6-756b-4512-9c84-51b016602baf" />
