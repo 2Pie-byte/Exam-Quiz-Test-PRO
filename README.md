@@ -33,6 +33,9 @@ The PRO version is a complete upgrade from the basic Exam-Quiz-Test platform, fe
 
 ### 🖼️ **Rich Media Support**
 - **Image Support** - Add images to questions and answers
+
+<img width="1720" height="911" alt="image" src="https://github.com/user-attachments/assets/851e02f1-c2d6-4524-8ab9-566b5109e4f2" />
+ 
 - **Code Blocks** - Use ``` to make a codeblock on start and end to get an enhanced code block display
 
 ### ⚡ **Additional PRO Features**
