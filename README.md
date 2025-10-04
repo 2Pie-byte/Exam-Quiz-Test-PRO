@@ -18,28 +18,19 @@ The PRO version is a complete upgrade from the basic Exam-Quiz-Test platform, fe
 ### 🚀 **Advanced Quiz Builder**
 - **Visual Quiz Builder Interface** - Create quizzes without touching code
 - **Real-time Preview** - See your quiz as you build it
-- **Drag & Drop Question Management** - Reorder questions with ease
 - **Intuitive Question Editor** - Add, edit, and delete questions in seconds
 
 ### 📝 **Enhanced Question Management**
 - **Easy Add/Remove/Edit** - Manage questions before generating your test
 - **Bulk Operations** - Import/export question sets
 - **Question Templates** - Pre-built templates for common question types
-- **Duplicate Questions** - Clone existing questions to save time
 
 ### 🖼️ **Rich Media Support**
 - **Image Support** - Add images to questions and answers
-- **Multimedia Content** - Embed videos, audio, and other media
-- **Code Syntax Highlighting** - Enhanced code block display
-- **LaTeX/Math Equations** - Support for mathematical formulas
+- **Code Blocks** - Use ``` to make a codeblock on start and end to get an enhanced code block display
 
 ### ⚡ **Additional PRO Features**
 - **Improved JSON Format** - Better data structure for complex quizzes
-- **Advanced Scoring Options** - Customizable point systems
-- **Question Categories** - Organize questions by topic/category
-- **Time Per Question** - Set individual time limits
-- **Detailed Analytics** - Track performance and statistics
-- **Quiz Templates** - Save and reuse quiz configurations
 
 ---
 
@@ -48,7 +39,7 @@ The PRO version is a complete upgrade from the basic Exam-Quiz-Test platform, fe
 ### Core Features
 ✅ **Customizable Questions & Timer** - Set quiz duration and question pool  
 ✅ **Single & Multiple Choice Questions** - Support for both formats  
-✅ **Dark Mode & Light Mode** - Eye-friendly themes  
+✅ **Dark Mode** - Eye-friendly  
 ✅ **Randomized Question & Answer Order** - Prevent cheating  
 ✅ **Instant Feedback on Mistakes** - Learn while taking the quiz  
 ✅ **Accurate Scoring System** - Fair and precise grading  
@@ -57,151 +48,17 @@ The PRO version is a complete upgrade from the basic Exam-Quiz-Test platform, fe
 
 ### PRO Exclusive Features
 ✅ **Visual Quiz Builder** - No coding required  
-✅ **Question Image Support** - Add visual elements  
-✅ **Advanced Media Embedding** - Videos, audio, and more  
-✅ **Question Bank Management** - Organize and reuse questions  
-✅ **Custom Themes** - Personalize your quiz appearance  
+✅ **Question Image Support** - Add visual elements   
 ✅ **Export/Import Functionality** - Share quiz data easily  
-✅ **Question Categories/Tags** - Better organization  
-✅ **Detailed Statistics** - Performance analytics  
-✅ **Quiz Templates** - Pre-configured quiz formats  
 ✅ **Partial Credit Scoring** - Advanced grading options  
-✅ **Time Management Options** - Global and per-question timers  
-✅ **Accessibility Features** - WCAG compliant  
-✅ **Multi-language Support** - Internationalization ready  
 
 ---
 
 ## 🚀 Quick Start
 
-### Option 1: Use Online (Recommended)
-1. Visit the hosted version (link coming soon)
-2. Start creating your quiz immediately
-3. Download your quiz as a standalone HTML file
-
-### Option 2: Local Installation
-```bash
-# Clone the repository
-git clone https://github.com/Refloow/Exam-Quiz-Test-PRO.git
-
-# Navigate to the directory
-cd Exam-Quiz-Test-PRO
-
-# Open index.html in your browser
-# or use a local server
-python -m http.server 8000
-# Then visit http://localhost:8000
-```
-
+To use the software, simply download the sigular quiz creator file run it in your browser, make your quiz as you wish
+export the quiz into a runnable file format and run the quiz.html file anywhere at any time on any device and play with your newly created quiz for practice or share it with friends!
 No dependencies, no build process, no complications! 🎉
-
----
-
-## 📖 Usage Guide
-
-### Creating a Quiz with the Visual Builder
-
-1. **Open the Quiz Builder**
-   - Launch the application in your browser
-   - Click on "Create New Quiz" or "Quiz Builder"
-
-2. **Configure Quiz Settings**
-   ```
-   - Set quiz title
-   - Set total time limit
-   - Choose number of questions to display
-   - Select theme (light/dark)
-   - Configure scoring options
-   ```
-
-3. **Add Questions**
-   - Click "Add Question" button
-   - Choose question type (single/multiple choice)
-   - Enter your question text
-   - Add images if needed (drag & drop or upload)
-   - Add answer options
-   - Mark correct answers
-   - Save the question
-
-4. **Manage Questions**
-   - **Edit**: Click on any question to modify it
-   - **Delete**: Remove unwanted questions
-   - **Duplicate**: Clone questions for similar variations
-   - **Reorder**: Drag and drop to rearrange
-
-5. **Generate Quiz**
-   - Review your questions in preview mode
-   - Click "Generate Quiz" to create the final test
-   - Download as standalone HTML file
-   - Share with students/participants
-
-### Question Format Options
-
-#### Text-Based Questions
-```
-Simple text questions with multiple choice answers
-```
-
-#### Questions with Images
-```
-Upload images to accompany questions or answer options
-Supports: JPG, PNG, GIF, SVG
-```
-
-#### Questions with Code
-```
-Syntax-highlighted code blocks for programming tests
-Supports multiple programming languages
-```
-
-#### Math/Science Questions
-```
-LaTeX support for mathematical equations
-Chemical formulas and scientific notation
-```
-
-### Taking a Quiz
-
-1. **Start Quiz**
-   - Open the generated quiz HTML file
-   - Click "Start Quiz" button
-   - Timer begins automatically
-
-2. **Answer Questions**
-   - Read each question carefully
-   - Select single or multiple answers as required
-   - Questions are presented randomly
-   - Answer options are shuffled
-
-3. **Review Results**
-   - Instant feedback on completion
-   - See correct and incorrect answers
-   - View detailed score breakdown
-   - Option to retake the quiz
-
----
-
-## 🔧 Configuration
-
-### Quiz Configuration (in Builder)
-```javascript
-{
-  totalTime: 90,              // Total quiz time in seconds
-  questionsToPick: 5,         // Number of questions to display
-  randomizeQuestions: true,   // Shuffle question order
-  randomizeAnswers: true,     // Shuffle answer options
-  showFeedback: true,         // Show immediate feedback
-  allowRetake: true,          // Allow quiz retake
-  passingScore: 70            // Passing percentage
-}
-```
-
-### Advanced Options
-- **Partial Credit**: Award points for partially correct answers
-- **Negative Marking**: Deduct points for wrong answers
-- **Question Categories**: Filter questions by category
-- **Time Per Question**: Individual question time limits
-- **Review Mode**: Allow reviewing all questions before submission
 
 ---
 
@@ -216,32 +73,9 @@ Chemical formulas and scientific notation
 - **Partial Correct (No wrong selections)**: Proportional percentage
 - **Any Wrong Selection**: 0% points (default) or configurable
 
-### Custom Scoring (PRO Feature)
-- Define custom point values per question
-- Weight questions by difficulty
-- Bonus points for speed
-- Penalty for incorrect attempts
-
----
-
-## 🎨 Customization
-
-### Themes
-- **Light Mode** - Clean, professional appearance
-- **Dark Mode** - Reduced eye strain for longer sessions
-- **Custom Themes** - Create your own color schemes
-- **High Contrast Mode** - Accessibility-focused theme
-
-### Branding
-- Add custom logos
-- Customize colors and fonts
-- Personalize success/failure messages
-- White-label capability
-
 ---
 
 ## 📱 Browser Compatibility
-
 ✅ Chrome (latest)  
 ✅ Firefox (latest)  
 ✅ Safari (latest)  
@@ -257,14 +91,7 @@ Chemical formulas and scientific notation
 | Visual Quiz Builder | ❌ | ✅ |
 | Easy Question Management | ❌ Manual JSON editing | ✅ GUI-based |
 | Image Support | ❌ | ✅ |
-| Video/Audio Support | ❌ | ✅ |
-| Drag & Drop Interface | ❌ | ✅ |
-| Question Categories | ❌ | ✅ |
-| Advanced Analytics | ❌ | ✅ |
 | Export/Import | ❌ | ✅ |
-| Quiz Templates | ❌ | ✅ |
-| Custom Themes | ❌ | ✅ |
-| Math Equation Support | ❌ | ✅ |
 | Code Syntax Highlighting | Basic | Enhanced |
 | Mobile Optimization | Good | Excellent |
 
@@ -295,19 +122,6 @@ We welcome contributions! Here's how you can help:
 ## 📄 License
 
 This project is **open-source** under the **MIT License**.
-
-```
-Copyright (c) 2025 Veljko Vuckovic
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-```
-
-See the [LICENSE](LICENSE) file for full details.
 
 ---
 
