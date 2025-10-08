@@ -156,7 +156,7 @@ If you find this project useful, please consider:
 - **GitHub**: [@Refloow](https://github.com/Refloow)
 - **Discord**: [Join our server](https://discord.gg/4enDY8yhuS)
 
----
+--- 
 
 **Built with ❤️ by Veljko Vuckovic @refloow**
 
